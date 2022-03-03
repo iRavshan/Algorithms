@@ -1,0 +1,16 @@
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.exe
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.deps.json
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.runtimeconfig.json
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.runtimeconfig.dev.json
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.dll
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\ref\CreateLinearSplineFunctions.dll
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\bin\Debug\net5.0\CreateLinearSplineFunctions.pdb
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.csproj.AssemblyReference.cache
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.AssemblyInfoInputs.cache
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.AssemblyInfo.cs
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.csproj.CoreCompileInputs.cache
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.dll
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\ref\CreateLinearSplineFunctions.dll
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.pdb
+C:\Users\iRavshan\source\repos\CreateLinearSplineFunctions\CreateLinearSplineFunctions\obj\Debug\net5.0\CreateLinearSplineFunctions.genruntimeconfig.cache
